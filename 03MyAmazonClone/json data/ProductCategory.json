@@ -1,0 +1,42 @@
+[
+    {
+        "ProductId":1,
+        "ProductName":"Electronics",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+    },
+    {
+        "ProductId":2,
+        "ProductName":"fashion",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/softlines/shopbop/ingress/2023/March/mp_20230219_ff_desktopsinglecategory_desktop_379x304_1._SY304_CB612639047_.jpg"
+    },
+    {
+        "ProductId":3,
+        "ProductName":"Fitness",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_2X._SY608_CB639748111_.jpg"
+    },
+    {
+        "ProductId":4,
+        "ProductName":"Sports",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_StripLighting_379x304_1X_en_US._SY304_CB418597476_.jpg"
+    },
+    {
+        "ProductId":5,
+        "ProductName":"kitchen",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/home/THILGMA/SpringEvent2023/XCM_CUTTLE_1559454_3018199_379x304_1X_en_US._SY304_CB592739737_.jpg"
+    },
+    {
+        "ProductId":6,
+        "ProductName":"Health & Care",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg"
+    },
+    {
+        "ProductId":7,
+        "ProductName":"Mack up & Beauty",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Beauty_1x._SY304_CB432774351_.jpg"
+    },
+    {
+        "ProductId":8,
+        "ProductName":"Tools and Home Improvement",
+        "ProductImage":"https://images-na.ssl-images-amazon.com/images/G/01/home/THILGMA/Holiday2022/Graphics/XCM_CUTTLE_1475305_2610205_379x304_1X_en_US._SY304_CB608600856_.jpg"
+    }
+]
